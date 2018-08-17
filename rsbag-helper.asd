@@ -6,7 +6,9 @@
   :author "Nicolas Hafner <shinmera@tymoon.eu>"
   :maintainer "Nicolas Hafner <shinmera@tymoon.eu>"
   :description "Helper functions and macros for working with the RSBag utilities."
-  :homepage "https://github.com/Shinmera/rsbag-helper/"
+  :homepage "https://Shinmera.github.io/rsbag-helper//"
+  :bug-tracker "https://github.com/Shinmera/rsbag-helper//issues"
+  :source-control (:git "https://github.com/Shinmera/rsbag-helper/.git")
   :serial T
   :components ((:file "package")
                (:file "rsbag-helper")
